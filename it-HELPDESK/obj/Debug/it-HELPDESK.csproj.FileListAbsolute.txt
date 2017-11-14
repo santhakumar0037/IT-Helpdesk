@@ -1,0 +1,11 @@
+C:\Users\Santha kumar\Desktop\it-HELPDESK\it-HELPDESK\bin\it-HELPDESK.dll
+C:\Users\Santha kumar\Desktop\it-HELPDESK\it-HELPDESK\bin\it-HELPDESK.pdb
+C:\Users\Santha kumar\Desktop\it-HELPDESK\it-HELPDESK\obj\Debug\it-HELPDESK.dll
+C:\Users\Santha kumar\Desktop\it-HELPDESK\it-HELPDESK\obj\Debug\it-HELPDESK.pdb
+C:\Users\Santha kumar\Desktop\it-HELPDESK\it-HELPDESK\obj\Debug\it-HELPDESK.csprojResolveAssemblyReference.cache
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\obj\Debug\it-HELPDESK.csprojResolveAssemblyReference.cache
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\obj\Debug\it-HELPDESK.dll
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\obj\Debug\it-HELPDESK.pdb
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\bin\it-HELPDESK.dll.config
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\bin\it-HELPDESK.dll
+C:\Users\kam\Desktop\IT helpdesk\it-HELPDESK\bin\it-HELPDESK.pdb
