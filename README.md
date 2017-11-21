@@ -5,3 +5,14 @@ Ipsoft is an online service request webpage developed using Asp .Net and C#, whi
 **Basic Work Flow**
 1. Open WebForm1.aspx  
 2. Home page looks like the bellow screenshot  
+![First Screenshot](Screenshots/1.jpg)
+3. Validation check 
+![Second Screenshot](Screenshots/2.jpg)
+![Third Screenshot](Screenshots/3.jpg)
+4. Thank you page
+![Fourth Screenshot](Screenshots/4.jpg)
+5. Received Gmail request related to the service request 
+![Fifth Screenshot](Screenshots/5.jpg)
+6. Data stored in MS SQL
+![Sixth Screenshot](Screenshots/6.jpg)
+
